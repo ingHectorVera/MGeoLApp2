@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MGeoLApp</string>
+    <string name="sat">Sat</string>
+    <string name="norm">Norm</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="terrain">Terrain</string>
+    <string name="none">None</string>
+    <string name="location">Location:</string>
+    <string name="go">Go</string>
+</resources>
